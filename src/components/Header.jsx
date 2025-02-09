@@ -3,7 +3,7 @@ function Header() {
     <header className="bg-gray-800 shadow-sm">
       <div className="container mx-auto px-2 py-4 flex justify-between items-center">
         <h1 className="text-xl sm:text-4xl font-heading font-bold text-blue-500">
-          Scholarly Writers Hub
+          Scholarly Writer's Hub
         </h1>
         <nav className="p-2">
           <ul className="flex space-x-6">

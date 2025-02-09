@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Header from "./components/header";
+import Header from "./components/header.jsx";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
 import About from "./components/About";

@@ -2,7 +2,7 @@ import { FaQuoteLeft } from "react-icons/fa";
 
 function TestimonialCard({ quote, author, program }) {
   return (
-    <div className="bg-gray-700 p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
+    <div className="bg-gray-900 p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
       <FaQuoteLeft className="text-3xl text-blue-400 mb-4" />
       <p className="text-gray-300 mb-4">{quote}</p>
       <p className="font-semibold text-white">{author}</p>

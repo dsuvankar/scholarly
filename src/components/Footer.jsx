@@ -8,7 +8,8 @@ function Footer() {
               Contact Us
             </h3>
             <p>Email: info@scholarlywritershub.com</p>
-            <p>Phone: +1 (555) 123-4567</p>
+            <p>Phone: +91 8240046149</p>
+            <p>Alt Phone: +91 983812455</p>
           </div>
           <div>
             <h3 className="text-xl font-heading font-semibold mb-4 text-blue-400">

@@ -7,7 +7,7 @@ import {
 
 function ServiceCard({ icon, title, description }) {
   return (
-    <div className="bg-gray-600 p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
+    <div className="bg-gray-900 p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
       <div className="text-4xl text-blue-400 mb-4">{icon}</div>
       <h3 className="text-xl font-heading font-semibold mb-2 text-white">
         {title}
